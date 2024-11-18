@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋,&nbsp I'm Anatoliy Grishaev</h1>
 <h3 align="center">JavaScipt Frontend developer</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=decsiss&label=Profile%20views&color=0e75b6&style=flat" alt="decsiss" /></p>
-
 ### 🧬 Passionate about web technologies, particularly in frontend, JS and React
 
 ---
@@ -43,3 +41,5 @@
   &nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50" />
 </div>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=decsiss&label=Profile%20views&color=0e75b6&style=flat" alt="decsiss" /></p>
