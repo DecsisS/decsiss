@@ -42,6 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50" />
 </div>
 
---
+</br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=decsiss&label=Profile%20views&color=0e75b6&style=flat" alt="decsiss" /></p>
