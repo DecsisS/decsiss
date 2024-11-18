@@ -14,6 +14,7 @@
 
 <div>
   <a href="https://t.me/decsis_tm" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="50" height="50" /></a>
+  &nbsp
   <a href="https://vk.com/decsis" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" alt="vk" width="50" height="50" /></a>
 </div>
 
