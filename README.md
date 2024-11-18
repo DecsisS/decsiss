@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/background.jpg" alt="background" />
+  <img src="./assets/background.jpg" alt="background" width="600"/>
 </div>
 
 
